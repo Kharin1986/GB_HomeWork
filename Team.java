@@ -1,7 +1,7 @@
-package ru.geekbrains.classes;
+﻿package ru.geekbrains.classes;
 
 
-
+//
 public class Team {
     private String name;
     private Participant[] participants;
